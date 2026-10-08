@@ -1,4 +1,4 @@
-![logo](https://miro.medium.com/v2/resize:fit:532/0*MPkeZYzGmffI4xB9.gif) ![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBFYqBtCzCfVN3vXWUMubzmrtVbQ41tt3FMIayiJi&s)
+![logo](https://miro.medium.com/v2/resize:fit:532/0*MPkeZYzGmffI4xB9.gif)
 <h1 align="center">Hi 👋, I'm Abhigyan Sutar</h1>
 <h3 align="center">A passionate student learning Data Scientist from India</h3>
 
