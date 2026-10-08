@@ -1,4 +1,3 @@
-![logo](https://github.com/abhigyansutar45-code/abhigyansutar45-code/blob/main/Techy%20GitHub%20banner.png)
 <h1 align="center">Hi 👋, I'm Abhigyan Sutar</h1>
 <h3 align="center">A passionate student learning Data Scientist from India</h3>
 
