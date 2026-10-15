@@ -1,4 +1,4 @@
-![logo](https://miro.medium.com/1*qiuKpruUqPl0-d36_zBS_w.gif)
+![logo](https://miro.medium.com/1*W0ur9D98GGM9HGstpvF1ZA.gif)
 <h1 align="center">Hi 👋, I'm Abhigyan Sutar</h1>
 <h3 align="center">A passionate student learning Data Scientist from India</h3>
 
