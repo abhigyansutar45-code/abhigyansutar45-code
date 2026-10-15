@@ -9,7 +9,7 @@ src="https://camo.githubusercontent.com/9598e31248e0d0f2f0067ae8cf24c68d2226621c
 
 - 📫 How to reach my goal **abhigyansutar45@gmail.com**
 
-- ⚡ Fun fact **I think I can make you fell good, happy and funny 😁**
+- ⚡ **Fun fact :** *I think I can make you fell good, happy and funny 😁*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
